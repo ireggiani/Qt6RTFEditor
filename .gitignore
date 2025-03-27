@@ -1,0 +1,19 @@
+# Build directories
+build/
+debug/
+release/
+
+# Qt specific
+*.user
+*.pro.user
+moc_*
+ui_*
+qrc_*
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out

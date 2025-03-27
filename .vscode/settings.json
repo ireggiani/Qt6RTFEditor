@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "\"*.module\"": "\"php\"",
+    "string": "cpp",
+    "*.tcc": "cpp"
+  }
+}
